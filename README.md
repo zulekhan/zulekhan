@@ -1,4 +1,4 @@
-# **👋 Hi, I’m Zulekha! **
+# 👋 Hi, I’m Zulekha! 
 
 I’m passionate about data science and analytics, I’m also drawn to bioinformatics, where I look forward to gaining skills in analyzing complex biological data. 🧬🔍
 
