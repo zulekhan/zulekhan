@@ -1,6 +1,6 @@
-👋 Hi, I’m Zulekha! 🌟
+# **👋 Hi, I’m Zulekha! **
 
-I’m passionate about data science and analytics, and I’m excited to learn about different types of projects. 📊✨ I’m also drawn to bioinformatics, where I look forward to gaining skills in analyzing complex biological data. 🧬🔍
+I’m passionate about data science and analytics, I’m also drawn to bioinformatics, where I look forward to gaining skills in analyzing complex biological data. 🧬🔍
 
 - 🌍 Based in Louisville, KY
 - 🌱 I’m currently learning Python, SQL, and R
